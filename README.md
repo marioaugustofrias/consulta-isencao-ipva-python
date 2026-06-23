@@ -61,3 +61,12 @@ python consulta_ipva.py
 * Versão web
 
 Projeto desenvolvido durante minha jornada de aprendizado em programação.
+
+## Histórico de versões
+
+### v1.1
+
+* Correção do loop de repetição
+* Atualização automática do ano
+* Tratamento para entradas inválidas
+* Melhoria nas mensagens ao usuário
